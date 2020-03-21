@@ -1,6 +1,6 @@
 # AP2 - Bicing Bot
 
-This project features the implementation of a telegram bot (@PyBicingbot) used to create routes between Bicing stations in Barcelona, using graph theory and the data provided by Bicing.
+This project features the implementation of a telegram bot (@PyBicingbot) that can be used to  get information on the current state of all Bicing stations in Barcelona. Bicing is a bike-based transportation service in Barcelona with more than 300 stations and 900 bikes spread around the city, which you can use to get around by paying a small fee. This bot will allow you to create routes between Bicing stations and get information on the current state of all stations in Barcelona using graph theory and the data provided by Bicing.
 
 More info on the project: https://github.com/jordi-petit/ap2-bicingbot-2019/blob/master/README.md
 
